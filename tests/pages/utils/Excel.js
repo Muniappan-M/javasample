@@ -8,5 +8,11 @@ function excelReader(){
        const xldata = XLSX.utils.sheet_to_json(sheet)             //to convert sheet to json
        return xldata;
 
-       
+
 }
+
+for (let i in j)
+    {
+    console.log(i)
+}
+    
