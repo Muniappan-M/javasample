@@ -11,8 +11,3 @@ function excelReader(){
 
 }
 
-for (let i in j)
-    {
-    console.log(i)
-}
-    
